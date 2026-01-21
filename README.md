@@ -65,7 +65,7 @@ Address Client  Server  KerbTicket Encryption Type      Ticket Flags    Start Ti
 
 ## Command `Dump`: ticket in kirbi format
 
-The polugin is able to dump any ticket into kirbi format. It requiures install `impacket` in the same python environment than volatility.
+The plugin is able to dump any ticket into kirbi format. It requiures install `impacket` in the same python environment than volatility.
 
 ```
 (volatility3) pip install impacket
